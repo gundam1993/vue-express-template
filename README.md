@@ -1,6 +1,5 @@
-# v_number_store
+# vue-express-template
 
-> 码号资源库及接码平台
 
 ## Build Setup
 
